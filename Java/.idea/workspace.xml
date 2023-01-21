@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf9c65d2-1d28-4fc9-8a67-5bc66abe6592" name="Changes" comment="" />
+    <list default="true" id="b5200dd2-8802-47f5-8454-28680dc58da2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="2Ke3g3S7EW0U0hYF4Y1kQGKHswT" />
+  <component name="ProjectId" id="2Ke5rY8mx2PEmB9Hbl2vlA8U7jQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,26 +20,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf9c65d2-1d28-4fc9-8a67-5bc66abe6592" name="Changes" comment="" />
-      <created>1674321330062</created>
+      <changelist id="b5200dd2-8802-47f5-8454-28680dc58da2" name="Changes" comment="" />
+      <created>1674322409389</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674321330062</updated>
-      <workItem from="1674321331745" duration="349000" />
+      <updated>1674322409389</updated>
+      <workItem from="1674322411095" duration="2000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
