@@ -3,4 +3,4 @@
 ## About
 Repository for register, follow and organize my progress on ZG Solutions challenge.
 
-Currently I'm learning a little big of Git/Github (note my progress on the commits history) and JAVA.
+Currently I'm learning a little bit of Git/Github (note my progress on the commits history) and JAVA.
